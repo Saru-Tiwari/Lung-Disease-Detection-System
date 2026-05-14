@@ -1,11 +1,10 @@
 # Lung Disease Detection System
 
-This project is a deep learning-based medical diagnostic tool designed to detect lung diseases such as Pneumonia and Tuberculosis from chest X-ray images using Convolutional Neural Networks (CNNs).
+This project is a deep learning-based system that detects lung diseases like Pneumonia and Tuberculosis using chest X-ray images.
 
 ## Features
-- CNN-based image classification
-- Chest X-ray preprocessing
-- Prediction of Normal vs Disease cases
-- Flask-based interface
+- CNN-based classification
+- X-ray preprocessing
+- Flask interface for prediction
 
-⚠️ Educational purpose only (not medical diagnosis).
+⚠️ Educational project only (not for medical use)
